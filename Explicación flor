@@ -5,3 +5,5 @@ Después use la IA de Gemini.
 Le mande captura de lo que es el código y las instrucciones que vienen debajo de esa misma para poder tener la flor bien hecha y con mas "flores".
 Me mando un código y lo ejecute en Blender el cual corrio a la perfección.
 El uso de IA en este caso me ayudo a poder ejecutar bien el código y poniendo el ciclo While.
+Como ultima nota, el profesor nos pidio que buscaramos que parametro teniamos que moverle el valor para que asi generara mas o menos petalos.
+Donde se tiene que mover es en "paso_angular = 60"
